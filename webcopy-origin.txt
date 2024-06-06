@@ -1,0 +1,424 @@
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\novalightart.com\@sqs\polyfiller\1.6\legacy-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\novalightart.com\@sqs\polyfiller\1.6\modern-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\cldr-resource-pack-e94539391642d3b99900-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-68a71b40a94572004203-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-68a71b40a94572004203-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-7713f46925f443840592-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-vendors-7713f46925f443840592-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-vendors-stable-3598b219a3c023c1915a-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4697672ae9ce5d6fceca-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-4697672ae9ce5d6fceca-min.en-US.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-50fae6e5f31b241e9fba-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-50fae6e5f31b241e9fba-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-fc0fa1401ee55ed6bb1a-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-fc0fa1401ee55ed6bb1a-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://assets.squarespace.com/universal/scripts-compressed/performance-b70b316548c4dbb3e0dd-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\performance-b70b316548c4dbb3e0dd-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: http://novalightart.com/
+File Name: C:\Downloaded Web Sites\novalightart.com\index-1.htm
+Content Type: text/html
+
+Uri: http://novalightart.com/about
+File Name: C:\Downloaded Web Sites\novalightart.com\about-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/adobe
+File Name: C:\Downloaded Web Sites\novalightart.com\adobe-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/being-human-is
+File Name: C:\Downloaded Web Sites\novalightart.com\being-human-is-2.html
+Content Type: text/html
+
+Uri: http://novalightart.com/being-human-is-1
+File Name: C:\Downloaded Web Sites\novalightart.com\being-human-is-1-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/collision
+File Name: C:\Downloaded Web Sites\novalightart.com\collision-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/ebayfinaltouch
+File Name: C:\Downloaded Web Sites\novalightart.com\ebayfinaltouch-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/elora
+File Name: C:\Downloaded Web Sites\novalightart.com\elora-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/envoy
+File Name: C:\Downloaded Web Sites\novalightart.com\envoy-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/fx-baskets
+File Name: C:\Downloaded Web Sites\novalightart.com\fx-baskets-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/misc
+File Name: C:\Downloaded Web Sites\novalightart.com\misc-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/new-page-1
+File Name: C:\Downloaded Web Sites\novalightart.com\new-page-1-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/new-page-2
+File Name: C:\Downloaded Web Sites\novalightart.com\new-page-2-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/noodles
+File Name: C:\Downloaded Web Sites\novalightart.com\noodles-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/okaybears
+File Name: C:\Downloaded Web Sites\novalightart.com\okaybears-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/popheadz
+File Name: C:\Downloaded Web Sites\novalightart.com\popheadz-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/poptart
+File Name: C:\Downloaded Web Sites\novalightart.com\poptart-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/rdkll
+File Name: C:\Downloaded Web Sites\novalightart.com\rdkll-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/savagexfenty
+File Name: C:\Downloaded Web Sites\novalightart.com\savagexfenty-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/tableland
+File Name: C:\Downloaded Web Sites\novalightart.com\tableland-1.html
+Content Type: text/html
+
+Uri: http://novalightart.com/work?format=rss
+File Name: C:\Downloaded Web Sites\novalightart.com\work
+Content Type: application/rss+xml
+
+Uri: http://use.typekit.net/ik/ZnuH0OaWbtFGYKGSu5qHiFKneNMwv0CfxYPoxsjcAj3feTwIfFHN4UJLFRbh52jhWD9hZ2gcjhZq5AjawRjhwAwujRJXFR9tFy72MkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0-cNojh9lde8uOABkifoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8OeTzpAF8OAUTiPuyS1b0SaBujW48Sagyjh90jhNlOeTzpAF8de8ujW4XOcFzdPUCdhFydeyzSabCSaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0dcmXOYiaikoySkolZPUaiaS0-cNojh9lde8uOABkifoDSWmyScmDSeBRZPoRdhXCiaiaOcTzpAF8de8ujW4XOcFzdPUaiaS0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPJwSY4zpe8ljPu0daZyJ6U3ScNt-AuyOWFzZ1b7fbRKHyMMeMw6MKG4fHvgIMMjgfMfH6qJK3IbMg6YJMJ7f6Kg6bJbMs6IJMJ7f6Ke6bJbMs6eJMJ7f6KJ6bJbMs6YJMHbMd7IyLCB.js
+File Name: C:\Downloaded Web Sites\novalightart.com\ik\ZnuH0OaWbtFGYKGSu5qHiFKneNMwv0CfxYPoxsjcAj3feTwIfFHN4UJLFRbh52jhWD9hZ2gcjhZq5AjawRjhwAwujRJXFR9tFy72MkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0-cNojh9lde8uOABkifoDSWmyScmDSeBRZP-1.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/legacy.js
+File Name: C:\Downloaded Web Sites\novalightart.com\@sqs\polyfiller\1.6\legacy.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/@sqs/polyfiller/1.6/modern.js
+File Name: C:\Downloaded Web Sites\novalightart.com\@sqs\polyfiller\1.6\modern.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\social-20141119\social-icon-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.eot?
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\social-20141119\social-icon-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.svg
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\social-20141119\social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\social-20141119\social-icon-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/social-20141119/social-icon-font.woff
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\social-20141119\social-icon-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\squarespace-ui-font.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.eot?
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\squarespace-ui-font-1.eot
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.svg
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\squarespace-ui-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.ttf
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\squarespace-ui-font.ttf
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/fonts/squarespace-ui-font.woff
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\fonts\squarespace-ui-font.woff
+Content Type: text/plain
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\edit-aviary-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-aviary-light@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\edit-aviary-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\edit-info-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/edit-info-light@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\edit-info-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\error-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/error-dark@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\error-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-16-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\getty-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/getty-32-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\getty-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-128-dark.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\image-inside-128-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/image-inside-64-dark.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\image-inside-64-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\play-button.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/play-button@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\play-button@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-16-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\shopping-cart-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/shopping-cart-32-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\shopping-cart-32-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\trash-9-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-light@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\trash-9-light@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\trash-9-red.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/damask/trash-9-red@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\damask\trash-9-red@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\block-indicator-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/block-indicator-dark@2x.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\block-indicator-dark@2x.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-dark.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\icon-searchqueries-20-dark.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-searchqueries-20-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\icon-searchqueries-20-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-settings-16-light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\icon-settings-16-light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/icon-video-24-light-solid.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\icon-video-24-light-solid.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\opentable-icons.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/images-v6/icons/opentable-icons.svg
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\icons\opentable-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.squarespace.com/universal/images-v6/standard/icon_close_7_light.png
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\images-v6\standard\icon_close_7_light.png
+Content Type: image/png
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/cldr-resource-pack-e94539391642d3b99900-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\cldr-resource-pack-e94539391642d3b99900-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-68a71b40a94572004203-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-68a71b40a94572004203-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-7713f46925f443840592-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-vendors-7713f46925f443840592-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/common-vendors-stable-3598b219a3c023c1915a-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\common-vendors-stable-3598b219a3c023c1915a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-moment-js-vendor-6f117db4eb7fd4392375-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-4697672ae9ce5d6fceca-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-4697672ae9ce5d6fceca-min.en-US-1.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-50fae6e5f31b241e9fba-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-50fae6e5f31b241e9fba-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/extract-css-runtime-fc0fa1401ee55ed6bb1a-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\extract-css-runtime-fc0fa1401ee55ed6bb1a-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://assets.squarespace.com/universal/scripts-compressed/performance-b70b316548c4dbb3e0dd-min.en-US.js
+File Name: C:\Downloaded Web Sites\novalightart.com\universal\scripts-compressed\performance-b70b316548c4dbb3e0dd-min.en-US.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Chivo:ital,wght@0,400;0,900;1,400;1,900
+File Name: C:\Downloaded Web Sites\novalightart.com\css2
+Content Type: text/css
+
+Uri: https://novalightart.com/
+File Name: C:\Downloaded Web Sites\novalightart.com\index.htm
+Content Type: text/html
+
+Uri: https://novalightart.com/about
+File Name: C:\Downloaded Web Sites\novalightart.com\about.html
+Content Type: text/html
+
+Uri: https://novalightart.com/adobe
+File Name: C:\Downloaded Web Sites\novalightart.com\adobe.html
+Content Type: text/html
+
+Uri: https://novalightart.com/being-human-is
+File Name: C:\Downloaded Web Sites\novalightart.com\being-human-is.html
+Content Type: text/html
+
+Uri: https://novalightart.com/being-human-is-1
+File Name: C:\Downloaded Web Sites\novalightart.com\being-human-is-1.html
+Content Type: text/html
+
+Uri: https://novalightart.com/collision
+File Name: C:\Downloaded Web Sites\novalightart.com\collision.html
+Content Type: text/html
+
+Uri: https://novalightart.com/ebayfinaltouch
+File Name: C:\Downloaded Web Sites\novalightart.com\ebayfinaltouch.html
+Content Type: text/html
+
+Uri: https://novalightart.com/elora
+File Name: C:\Downloaded Web Sites\novalightart.com\elora.html
+Content Type: text/html
+
+Uri: https://novalightart.com/envoy
+File Name: C:\Downloaded Web Sites\novalightart.com\envoy.html
+Content Type: text/html
+
+Uri: https://novalightart.com/fx-baskets
+File Name: C:\Downloaded Web Sites\novalightart.com\fx-baskets.html
+Content Type: text/html
+
+Uri: https://novalightart.com/misc
+File Name: C:\Downloaded Web Sites\novalightart.com\misc.html
+Content Type: text/html
+
+Uri: https://novalightart.com/new-page-1
+File Name: C:\Downloaded Web Sites\novalightart.com\new-page-1.html
+Content Type: text/html
+
+Uri: https://novalightart.com/new-page-2
+File Name: C:\Downloaded Web Sites\novalightart.com\new-page-2.html
+Content Type: text/html
+
+Uri: https://novalightart.com/noodles
+File Name: C:\Downloaded Web Sites\novalightart.com\roach.html
+Content Type: text/html
+
+Uri: https://novalightart.com/okaybears
+File Name: C:\Downloaded Web Sites\novalightart.com\driphaus.html
+Content Type: text/html
+
+Uri: https://novalightart.com/popheadz
+File Name: C:\Downloaded Web Sites\novalightart.com\thehype.html
+Content Type: text/html
+
+Uri: https://novalightart.com/poptart
+File Name: C:\Downloaded Web Sites\novalightart.com\freelance.html
+Content Type: text/html
+
+Uri: https://novalightart.com/rdkll
+File Name: C:\Downloaded Web Sites\novalightart.com\rdkll.html
+Content Type: text/html
+
+Uri: https://novalightart.com/savagexfenty
+File Name: C:\Downloaded Web Sites\novalightart.com\savagexfenty.html
+Content Type: text/html
+
+Uri: https://novalightart.com/tableland
+File Name: C:\Downloaded Web Sites\novalightart.com\pengulove.html
+Content Type: text/html
+
+Uri: https://static1.squarespace.com/static/56d0fcfd9f72661c5b246586/t/649912ad4a86290ae370832d/1687753390444/Joyceliu_Resume_2023.pdf
+File Name: C:\Downloaded Web Sites\novalightart.com\static\56d0fcfd9f72661c5b246586\t\649912ad4a86290ae370832d\1687753390444\Joyceliu_Resume_2023.pdf
+Content Type: application/pdf
+
+Uri: https://static1.squarespace.com/static/sitecss/56d0fcfd9f72661c5b246586/154/55dccafee4b04b8e0d7b6d4d/5a60e8d3085229e21fc586e4/970/site.css
+File Name: C:\Downloaded Web Sites\novalightart.com\static\sitecss\56d0fcfd9f72661c5b246586\154\55dccafee4b04b8e0d7b6d4d\5a60e8d3085229e21fc586e4\970\site.css
+Content Type: text/css
+
+Uri: https://static1.squarespace.com/static/ta/55dccaa0e4b0f748d9f6f215/970/scripts/site-bundle.js
+File Name: C:\Downloaded Web Sites\novalightart.com\static\ta\55dccaa0e4b0f748d9f6f215\970\scripts\site-bundle.js
+Content Type: application/javascript
+
+Uri: https://use.typekit.net/ik/ZnuH0OaWbtFGYKGSu5qHiFKneNMwv0CfxYPoxsjcAj3feTwIfFHN4UJLFRbh52jhWD9hZ2gcjhZq5AjawRjhwAwujRJXFR9tFy72MkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0-cNojh9lde8uOABkifoDSWmyScmDSeBRZPoRdhXCHKoDSWmyScmDSeBRZWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0jhNlOeBRiA8XpWFR-emqiAUTdcS0dcmXOeBDOcu8OeTzpAF8OAUTiPuyS1b0SaBujW48Sagyjh90jhNlOeTzpAF8de8ujW4XOcFzdPUCdhFydeyzSabCSaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPUaiaS0jAFu-WsoShFGZAsude80ZkoRdhXCiaiaOcBRiA8XpWFR-emqiAUTdcS0dcmXOYiaikoySkolZPUaiaS0-cNojh9lde8uOABkifoDSWmyScmDSeBRZPoRdhXCiaiaOcTzpAF8de8ujW4XOcFzdPUaiaS0SaBujW48SagyjhmDjhy8ZYmC-Ao1OcFzdPJwSY4zpe8ljPu0daZyJ6U3ScNt-AuyOWFzZ1b7fbRKHyMMeMw6MKG4fHvgIMMjgfMfH6qJK3IbMg6YJMJ7f6Kg6bJbMs6IJMJ7f6Ke6bJbMs6eJMJ7f6KJ6bJbMs6YJMHbMd7IyLCB.js
+File Name: C:\Downloaded Web Sites\novalightart.com\ik\ZnuH0OaWbtFGYKGSu5qHiFKneNMwv0CfxYPoxsjcAj3feTwIfFHN4UJLFRbh52jhWD9hZ2gcjhZq5AjawRjhwAwujRJXFR9tFy72MkG0jAFu-WsoShFGZAsude80ZkoRdhXCHKoyjamTiY8Djhy8ZYmC-Ao1Oco8if37OcBDOcu8OfG0-cNojh9lde8uOABkifoDSWmyScmDSeBRZPoR.js
+Content Type: text/javascript
+
